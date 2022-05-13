@@ -21,3 +21,5 @@ linker = "x86_64-w64-mingw32-gcc"
 ```
 
 install the package `mingw-w64`
+
+cargo build --release --target x86_64-pc-windows-gnu
